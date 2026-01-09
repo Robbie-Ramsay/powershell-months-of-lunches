@@ -1,0 +1,1 @@
+# Lab for Chapter 3: Using the help system

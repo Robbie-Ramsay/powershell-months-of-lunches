@@ -1,0 +1,1 @@
+# Lab for Chapter 12: Objects: The best kind of output

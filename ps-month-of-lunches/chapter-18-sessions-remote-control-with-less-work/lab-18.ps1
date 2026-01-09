@@ -1,0 +1,1 @@
+# Lab for Chapter 18: Sessions: Remote control with less work

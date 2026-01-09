@@ -1,0 +1,1 @@
+# Lab for Chapter 6: The pipeline: Connecting commands

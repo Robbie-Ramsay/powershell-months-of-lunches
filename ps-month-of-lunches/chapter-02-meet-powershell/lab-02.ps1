@@ -1,0 +1,1 @@
+# Lab for Chapter 2: Meet PowerShell

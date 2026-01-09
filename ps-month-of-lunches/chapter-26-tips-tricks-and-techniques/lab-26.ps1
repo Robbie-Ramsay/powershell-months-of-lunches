@@ -1,0 +1,1 @@
+# Lab for Chapter 26: Tips, tricks, and techniques
