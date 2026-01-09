@@ -1,7 +1,7 @@
 #Run before starting each lab to ensure local files are up to date and to start a new branch
 git checkout main
 git pull
-git checkout -b lab/chapter-01
+git checkout -b lab/chapter-00
 
 #Open .ps1 file for chapter and save when finished
 
