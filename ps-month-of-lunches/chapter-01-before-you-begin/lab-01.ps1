@@ -2,4 +2,5 @@
 
 # Powershell installed and Git+GitHub configured
 
-#Branch configured to use merge and pull requests
+# Branch configured to use merge and pull requests
+# Created git-commands.ps1
