@@ -3,9 +3,9 @@ Repository of my labs from PS(S)MOL.
 
 # (PSMOL) Progress [x] = Complete
 
-- [ ] PSMOL Chapter 01: Before you begin
-- [ ] PSMOL Chapter 02: Meet PowerShell
-- [ ] PSMOL Chapter 03: Using the help system
+- [x] PSMOL Chapter 01: Before you begin
+- [x] PSMOL Chapter 02: Meet PowerShell
+- [x] PSMOL Chapter 03: Using the help system
 - [ ] PSMOL Chapter 04: Running commands
 - [ ] PSMOL Chapter 05: Working with providers
 - [ ] PSMOL Chapter 06: The pipeline: Connecting commands
