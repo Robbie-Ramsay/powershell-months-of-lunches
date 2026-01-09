@@ -6,7 +6,7 @@ Repository of my labs from PS(S)MOL.
 - [x] PSMOL Chapter 01: Before you begin
 - [x] PSMOL Chapter 02: Meet PowerShell
 - [x] PSMOL Chapter 03: Using the help system
-- [ ] PSMOL Chapter 04: Running commands
+- [x] PSMOL Chapter 04: Running commands
 - [ ] PSMOL Chapter 05: Working with providers
 - [ ] PSMOL Chapter 06: The pipeline: Connecting commands
 - [ ] PSMOL Chapter 07: Adding commands
@@ -19,7 +19,7 @@ Repository of my labs from PS(S)MOL.
 - [ ] PSMOL Chapter 14: Multitasking with background jobs
 - [ ] PSMOL Chapter 15: Working with many objects, one at a time
 - [ ] PSMOL Chapter 16: Variables: A place to store your stuff
-- [ ] PSMOL Chapter 17: Input and output
+- [ ] PSMOL Chapter 17: Input and output                                                          
 - [ ] PSMOL Chapter 18: Sessions: Remote control with less work
 - [ ] PSMOL Chapter 19: You call this scripting?
 - [ ] PSMOL Chapter 20: Improving your parameterized script
