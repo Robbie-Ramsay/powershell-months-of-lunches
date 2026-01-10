@@ -7,7 +7,7 @@ Repository of my labs from PS(S)MOL.
 - [x] PSMOL Chapter 02: Meet PowerShell
 - [x] PSMOL Chapter 03: Using the help system
 - [x] PSMOL Chapter 04: Running commands
-- [ ] PSMOL Chapter 05: Working with providers
+- [x] PSMOL Chapter 05: Working with providers
 - [ ] PSMOL Chapter 06: The pipeline: Connecting commands
 - [ ] PSMOL Chapter 07: Adding commands
 - [ ] PSMOL Chapter 08: Objects: Data by another name
