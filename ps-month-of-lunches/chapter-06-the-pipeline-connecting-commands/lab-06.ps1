@@ -32,3 +32,4 @@ Get-Process -Id $PID | ConvertTo-Html | Out-File website.html
 # What if is useful to see what a command would do, useful for high impact commands
 Get-Process | Stop-Process –WhatIf
 
+# Start of lab
