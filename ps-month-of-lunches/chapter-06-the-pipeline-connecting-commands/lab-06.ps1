@@ -51,3 +51,19 @@ Get-Command | Export-CSV commands.CSV | Out-File
 Help Get-Job
 Help Stop-Job
 # You can use the -Name and -Job paramaters to specify specific jobs, you can also use Ctr+C to stop the current job.
+
+# What if you want to create a pipe-delimited file instead of a CSV file? You’d still use the Export-CSV command, but what parameters would you specify?
+Help Export-CSV -Full
+Get-Command | Export-CSV -Path commands2.csv -Delimiter "|"
+
+# How do you include the type information in the # comment line at the top of an exported CSV file?
+Get-Command | Export-CSV -Path commands3.csv -IncludeTypeInformation
+
+# Export-Clixml and Export-CSV both modify the system because they can create and overwrite files.
+# What parameter would prevent them from overwriting an existing file? What parameter would ask whether you were sure before proceeding to write the output file?
+Get-Command | Export-CSV -Path commands2.csv -NoClobber -Confirm
+
+# The operating system maintains several regional settings, which include a default list separator. On US systems, that separator is a comma.
+# How can you tell Export-CSV to use the system’s default separator rather than a comma?
+Help Export-CSV -Full
+Get-Command | Export-CSV -Path commands3.csv -UseCulture
